@@ -7,3 +7,5 @@ This project explores global digital nomad travel patterns, analyzing where noma
 - Top countries where digital nomads are based
 - Most visited cities globally
 - Most popular destinations within Thailand
+## Files
+- `tableau_thailand — download and open in Tableau to explore the full dashboard
